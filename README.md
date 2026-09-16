@@ -1,5 +1,9 @@
 # 山西汾酒11市公开调研报告
 
+**正式腾讯云网址：** [打开山西汾酒11市报告](https://map.jianengzhou.com/reports/fenjiu-20260917/)
+
+**GitHub Pages 镜像：** [打开镜像](https://jayzhou0214-ops.github.io/fenjiu-shanxi-report-20260917/)
+
 截至2026年9月17日，覆盖山西11个地级市。内容为已核对的公开信息快照。
 
 - [打开公开网页](https://jayzhou0214-ops.github.io/fenjiu-shanxi-report-20260917/)
